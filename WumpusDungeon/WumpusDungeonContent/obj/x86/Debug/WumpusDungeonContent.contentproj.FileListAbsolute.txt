@@ -1,0 +1,2 @@
+c:\users\aldarion\documents\visual studio 2010\Projects\WumpusDungeon\WumpusDungeon\WumpusDungeonContent\obj\x86\Debug\WumpusDungeonContent.contentprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\Visual Studio 2010\Projects\WumpusDungeon\WumpusDungeon\WumpusDungeonContent\obj\x86\Debug\WumpusDungeonContent.contentprojResolveAssemblyReference.cache

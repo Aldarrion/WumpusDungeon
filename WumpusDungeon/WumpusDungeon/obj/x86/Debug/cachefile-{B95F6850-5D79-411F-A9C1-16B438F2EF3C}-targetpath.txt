@@ -1,0 +1,15 @@
+Content\textures\entities\player\idle.xnb
+Content\textures\entities\breeze.xnb
+Content\textures\tiles\empty.xnb
+Content\textures\entities\pit.xnb
+Content\textures\entities\stench.xnb
+Content\textures\entities\wumpus\wumpus.xnb
+Content\textures\tiles\notVisited.xnb
+Content\textures\tiles\wall.xnb
+Content\textures\entities\treasure.xnb
+Content\textures\pointers\spear.xnb
+Content\textures\pointers\torch.xnb
+Content\fonts\Arial.xnb
+Content\maps\map1.txt
+Content\maps\map2.txt
+Content\maps\map3.txt
